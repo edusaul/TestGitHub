@@ -9,7 +9,8 @@ git init
 ###to clone
 git clone https://*.git
 
-###to add a repository in a folder 
+
+###to add a repository in a folder
 mkdir Test 
 
 cd Test/ 
